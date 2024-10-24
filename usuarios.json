@@ -1,8 +1,8 @@
 [
     {
         "id" : 1,
-        "nome": "Jéferson",
-        "email": "omaislindo@gmail.com",
+        "nome": "usuario1",
+        "email": "usuario1@gmail.com",
         "password": "senha123",
         "tipo": "adm"
     },
@@ -10,7 +10,7 @@
     {
         "id" : 2,
         "nome": "Lucas",
-        "email": "omaisfeio@gmail.com",
+        "email": "usuario2@gmail.com",
         "password": "senha123",
         "tipo": "cliente"
     }
