@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "nome": "Jéferson",
+        "email": "omaislindo@gmail.com",
+        "password": "senha123",
+        "tipo": "adm"
+    },
+
+    {
+        "id" : 2,
+        "nome": "Lucas",
+        "email": "omaisfeio@gmail.com",
+        "password": "senha123",
+        "tipo": "cliente"
+    }
+]
